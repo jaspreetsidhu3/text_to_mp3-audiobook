@@ -81,7 +81,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/) -  jaspreetsidhu3may@gmail.com
+Name - [Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/) -  jaspreetsidhu3may@gmail.com
 
 Project Link: [Jelly](https://github.com/jaspreetsidhu3/text_to_mp3/blob/master/jelly.py)
 
