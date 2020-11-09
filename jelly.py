@@ -34,6 +34,10 @@ gtts_obj = gTTS(text=raw_str, lang="en")
 filename = input("Input filename for your audio")
 
 # Saving audio file
-gtts_obj.save(filename + ".mp3")
-
+while True:
+    try:
+        gtts_obj.save(filename + ".mp3")
+        break
+    except Exception as e:
+        print(e)
 print("Done")
